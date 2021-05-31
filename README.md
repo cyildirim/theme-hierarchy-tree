@@ -1,4 +1,4 @@
-#Theme Hierarchy Tree for CLI
+# Theme Hierarchy Tree for CLI
 
 This module prints hierarchy tree for all themes installed in m2 instance.
 

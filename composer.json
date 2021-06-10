@@ -1,6 +1,6 @@
 {
     "name": "fetchtex/theme-hierarchy-tree",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "This magento2 module lists all theme hierarchy in cli tree format",
     "type": "magento2-module",
     "require": {
